@@ -10,6 +10,14 @@
 
 ## train
 
+1. download the dataset
+
+2. download caffe source code
+```
+git clone https://github.com/vlomonaco/core50
+```
+3. train
+
 - NI alexnet
 ```
 python train_alexnet_NI.py -dp your_data_path
@@ -41,3 +49,5 @@ python train_alexnet_NIC.py -dp your_data_path
 python train_vgg16_NIC.py -dp your_data_path
 ```
 
+## reference
+[https://github.com/chenlongzhen/vgg_finetune](https://github.com/chenlongzhen/vgg_finetune)
