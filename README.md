@@ -14,6 +14,11 @@
 python train_alexnet_NI.py -dp your_data_path
 ```
 
+- NI vgg16
+```
+python train_vgg16_NI.py -dp your_data_path
+```
+
 - NC vgg16
 ```
 python train_vgg16_NC.py -dp your_data_path
@@ -34,3 +39,4 @@ python train_alexnet_NIC.py -dp your_data_path
 ```
 python train_vgg16_NIC.py -dp your_data_path
 ```
+
