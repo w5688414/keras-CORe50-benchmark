@@ -1,11 +1,12 @@
 # model
-- vggnet version1
+- vgg16
 - alexnet
 
 ## reuqirements
-- keras 2.1
+- keras 2.1.4
 - ubuntu 16.04 
-- tensorflow-gpu
+- tensorflow-gpu 1.4
+- python3
 
 ## train
 
